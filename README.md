@@ -1,2 +1,2 @@
 # Practice-projects
-This repository FCC responsive wb projects
+This repository contains my FCC responsive web design projects
